@@ -1,5 +1,5 @@
 test
 ---
-title: test
-date: 2019-09-17
+title: blog
+date: 19-09-19
 ---
